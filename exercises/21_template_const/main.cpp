@@ -45,7 +45,7 @@ private:
                 stride *= shape[j];
             }
 
-            index *= stride * indices[i];
+            index += stride * indices[i];
         }
     }
 };
