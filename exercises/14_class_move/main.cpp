@@ -1,4 +1,5 @@
 #include "../exercise.h"
+#include <cstring>
 
 // READ: 移动构造函数 <https://zh.cppreference.com/w/cpp/language/move_constructor>
 // READ: 移动赋值 <https://zh.cppreference.com/w/cpp/language/move_assignment>

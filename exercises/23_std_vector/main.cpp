@@ -1,5 +1,6 @@
 ﻿#include "../exercise.h"
 #include <vector>
+#include <cstring>
 
 // READ: std::vector <https://zh.cppreference.com/w/cpp/container/vector>
 
